@@ -20,6 +20,8 @@ The analysis yielded significant insights:
 -Top Product and Customer: The best-selling product was identified as "Better Large Canned Shrimp," and the primary customer contributing to sales was "Acer Superstore."
 -Profitable Customer Type: The net profit for the company was predominantly generated from customers classified under the "G2" customer type.
 -Customer Distribution: The majority of customers were identified as international customers.
+
+
 These insights collectively provide a comprehensive overview of the company's sales performance, highlighting key metrics and influential factors shaping the business landscape.
 Dashboard Presentation:
 The project culminated in the creation of a dynamic dashboard in Power BI, visually representing the key findings. The dashboard provided an intuitive interface for stakeholders to interact with the data, enabling them to gain actionable insights and make informed business decisions.
